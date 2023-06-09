@@ -187,21 +187,3 @@ public class FinalProject{
         return randomNums;
     }
 }
-/*
- * WORK LOG:
- * May 5th: Started assignment, chose which game to do and did some of the
- * planning.
- * May 9th: Got feedback for planning, fixed it up and added more information, did pseudocode.
- * Also started main component of code and created board arrays. Finished the plinko board layout.
- * May 11th: Created array of coordinates that contains the ball. and other attempts that place other balls. 
- * May 12th: Kept experimenting on how to make the ball drop using a thread.sleep
- * May 15th: Figured out how to make ball drop straight down
- * May 16th: Made the ball go left or right depending if it hits a black peg on the board. Also made it unable to go off the board like the real game. 
- * May 17th: Made the ball able to go through the bottom and back to the top the # of times the user wants. Attempted to make scoring system, had some issues with it however.
- * May 18th: Added point pegs and an arraylist for them and a variable that determines total points.
- * May 23rd: Made it so that the code detects when the ball is on the point, removing the point peg and giving the user + 10 score
- * May 26th: Added try catches to each question to make it so the user has to input right variable type 
- * May 27th: Fixed formatting and indenting
- * May 31st: Commenting and documenation
- * June 5th: More commenting and documentation 
- */
